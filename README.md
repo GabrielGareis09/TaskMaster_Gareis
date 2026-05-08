@@ -1,9 +1,5 @@
 # 📝 TaskMaster Pro - Gerenciador de Tarefas
 
-![TypeScript](https://shields.io)
-![HTML5](https://shields.io)
-![Status](https://shields.io)
-
 O **TaskMaster Pro** é um sistema minimalista de gestão de atividades diárias, focado em alta performance e simplicidade. Desenvolvido para demonstrar a integração entre lógica TypeScript e estruturas HTML semânticas.
 
 ## 🚀 Funcionalidades
